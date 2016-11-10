@@ -1,0 +1,7 @@
+d39db824bff9755ded18758e0df30a4f  lib/systemd/system/dsctl-detect-media-removal.service
+c039f9d7f384c9ad53168f9daae6f830  usr/bin/removal-warning.py
+41cdc615c687f63cfcce2f37599584ef  usr/sbin/udev-watchdog
+6875d19289ffa98e0d145bc6a5c8e2bc  usr/sbin/udev-watchdog-wrapper
+d171b99615e323906884ef70354cd6e2  usr/share/doc/dsctl-detect-media-removal/changelog.gz
+cbe35515b35a9a962044fd9143940093  usr/share/doc/dsctl-detect-media-removal/copyright
+e5e32b842bc55837993f4f7baee948f6  usr/share/locale/de/LC_MESSAGES/dsctl-detect-media-removal.mo

@@ -1,0 +1,11 @@
+dsctl-detect-media-removal (0.2) jessie; urgency=low
+
+  * Initial release for Discreete Linux
+  
+ -- Discreete Linux Team <info@discreete-linux.org>  Fri, 14 Oct 2016 16:12:01 +0200
+
+upr-detect-media-removal (0.1-1) precise; urgency=low
+
+  * Initial release
+
+ -- UPR Team <info@privacy-cd.org>  Mon, 22 Jul 2013 11:12:01 +0200

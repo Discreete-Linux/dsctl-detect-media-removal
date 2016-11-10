@@ -1,0 +1,9 @@
+[Unit]
+Description=Detect removal of live system media
+
+[Service]
+ExecStart=/usr/sbin/udev-watchdog-wrapper
+SuccessExitStatus=1
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,14 @@
+Package: dsctl-detect-media-removal
+Version: 0.2
+Architecture: amd64
+Maintainer: Discreete Linux Team <info@discreete-linux.org>
+Installed-Size: 79
+Depends: libc6 (>= 2.2.5), libudev1 (>= 183)
+Recommends: memlockd
+Section: utils
+Priority: extra
+Homepage: https://www.discreete-linux.org
+Description: Detect live media removal
+ This is a little utility for detecting when the live media is removed,
+ and shows a warning to the user.
+ It is inspired by TAILS (tails.boum.org)
